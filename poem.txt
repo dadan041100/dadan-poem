@@ -1,6 +1,7 @@
 This is a sample poem: 
 
 PROGRAMMERS SAMPLE POEM:
+Please rate my poem 1 - 10 
 
 In every lines of code, our dreams reside 
 Through loops and functions, we create 
